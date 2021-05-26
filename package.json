@@ -10,7 +10,7 @@
   "devDependencies": {},
 
   "nodemonConfig": {
-    "delay": 2000,
+    "delay": 1000,
     "ignore": "data/*"
   },
   "scripts": { 
